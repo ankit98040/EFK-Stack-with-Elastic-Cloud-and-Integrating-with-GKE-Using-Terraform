@@ -1,0 +1,6 @@
+project_id = "PROJECT_ID"
+region = "us-east-1"
+secret_name = "elastic_cloud_secret-1"
+version_number = "1"
+deploy_name = "Elastic_Search_Deployment"
+deploy_id = "aws-io-optimized-v2"
